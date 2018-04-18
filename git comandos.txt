@@ -1,0 +1,33 @@
+Comandos de Git
+ git checkout --  nombre del archivo para retornar a su estado anterior de su ultimo commit del archivo
+
+git diff  nombre del archivo
+Cambios que ha sufrido el archivo
+
+Hacer un archivo .gitignore hace que cualquier carpeta o archivo en la lista de archivos no aparezca en tu estado de preparación
+
+Git log
+Verifica los commit realizados
+
+Git branch
+visualiza las ramas en el projecto
+
+git branch nombre de la rama
+crea una nueva rama de trabajo
+
+git checkout nombre_rama
+
+git remote add origin direccion de github o bitbucket
+
+git remote nombre de direccion de repositorio github
+
+Git remote -v 
+Lista de nombres alias de dirección de GitHub o bitbucket
+ 
+git push -u alias rama
+
+git log  --oneline  --decorate --graph --all
+Muestra las rutas de mis ramas con sus commits
+
+git merge rama_fuente a la rama actual 
+
