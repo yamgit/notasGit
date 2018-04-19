@@ -31,3 +31,10 @@ Muestra las rutas de mis ramas con sus commits
 
 git merge rama_fuente a la rama actual 
 
+git push origin :rama_repositorio_remoto
+borrar rama repositorio remoto
+
+git remote rm nombre_alias de tu repositorio remoto
+eliminar alias de repositorio remoto
+
+
