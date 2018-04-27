@@ -37,4 +37,6 @@ borrar rama repositorio remoto
 git remote rm nombre_alias de tu repositorio remoto
 eliminar alias de repositorio remoto
 
+git config --global credential.helper store
+configuracion de usuario y contraseña, establecer un asistente de credenciales en la configuración de git
 
